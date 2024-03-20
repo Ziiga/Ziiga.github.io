@@ -3,10 +3,6 @@ author: Žiga Žunec
 title: Zakaj je antična grčija relevantna za nas?
 ---
 
-## Ali: Zakaj bi mene brigali toti Grki?
-
----   
-
 ## Pravila
 
 1. Tišina
@@ -30,8 +26,6 @@ title: Zakaj je antična grčija relevantna za nas?
 - To je posledica upadanja družbene moči plemičev in večanja družbene moči običajnih prebivalcev.
 
 - Običajni ljudje (kmetje, rokodelci) postanejo vključeni v delovanje in vodenje mestne države.
-
-- Staro-grška demokracija se sicer precej razlikuje od sodobne demokracije.
 
 ---
 
