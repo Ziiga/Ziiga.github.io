@@ -17,4 +17,5 @@ for file in "$ROOT"/*/*; do
     oldparent="$parent"   
   fi
   pandoc -t revealjs -s --self-contained -o "$TARGET/${targetpath%%.*}.html" "$parentpath" -V revealjs-url=/home/ziga/.docs/reveal.js-5.0.5/ -V theme=solarized
+  #pandoc -t revealjs -s --self-contained -o "$TARGET/${targetpath%%.*}.html" "$parentpath" -V revealjs-url=/home/ziga/.docs/reveal.js-5.0.5/ 
 done
