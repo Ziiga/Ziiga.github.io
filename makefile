@@ -9,5 +9,5 @@ update:
 	git push
 
 clean: 
-	rm -r slides
-	rm index.html
+	rm -rf slides
+	rm -f index.html
