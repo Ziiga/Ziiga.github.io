@@ -27,6 +27,8 @@ title: Zakaj je antična grčija relevantna za nas?
 
 - Običajni ljudje (kmetje, rokodelci) postanejo vključeni v delovanje in vodenje mestne države.
 
+- Staro-grška demokracija se sicer precej razlikuje od sodobne demokracije.
+
 ---
 
 - Razvoj demokracije je na področju kulture povezan s slavljenjem človeškega dela in kreativnosti -- od ročnega dela do političnega dela.
