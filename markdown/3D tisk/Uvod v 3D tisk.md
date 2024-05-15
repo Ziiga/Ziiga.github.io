@@ -34,6 +34,8 @@ vir: Tomič, Luka (2021). *Aditivna tehnologija*. Ljubljana: Fakulteta za strojn
 - Dostopno za domačo uporabo
 
 - Možnost izdelave predmetov, ki jih ni možno izdelati z drugimi tehnologijami
+  
+  - [Print in place models](https://all3dp.com/2/coolest-print-in-place-3d-models/)
 
 #### Slabosti 3D tiska
 
