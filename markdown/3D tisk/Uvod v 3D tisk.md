@@ -9,13 +9,13 @@ author: Žiga Žunec
 
 - Obstajajo različne tehnologije 3D tiska.
 
-![](/home/ziga/.src/Ziiga.github.io/markdown/3D%20tisk/slike/add_vs_sub.png){ width=538px }
+![](slike/add_vs_sub.png){ width=538px }
 
 vir: Tomič, Luka (2021). *Aditivna tehnologija*. Ljubljana: Fakulteta za strojništvo.
 
 #### FDM ali *fused depisotion modeling*
 
-![](/home/ziga/.src/Ziiga.github.io/markdown/3D%20tisk/slike/diagram1.png){ width=600px }
+![](slike/diagram1.png){ width=600px }
 
 ---
 
