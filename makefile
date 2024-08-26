@@ -5,6 +5,7 @@ compile:
 update:
 	bash convert_slides.sh
 	bash make_index.sh
+	git add *
 	git commit -a -m update
 	git push
 
