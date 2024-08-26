@@ -1,7 +1,48 @@
 ---
-title: Osnove politične pismenosti
+title: Osnove sodobne politične in ekonomske ureditve
 author: Žiga Žunec
 ---
+
+## Parlamentarna demokracija
+
+### Od fevdalizma do demokracije
+
+- Z razpadanjem fevdalizma plemiči izgubljajo družbeno moč.
+
+- To omogoča nove oblike vladavine.
+
+- Demokracija nastane kot posledica družbenih bojev drugih družbenih slojev.
+
+### Značilnosti sodobne parlamentarne demokracije 1.
+
+- Parlament postavlja zakone.
+
+- Poslance se voli na volitvah.
+
+- Vlado voli parlament (ponekod določi predsednik, npr. ZDA).
+
+---
+
+- Osebne pravice, ki naj bi veljale za vse.
+
+- O kršitvah zakona odloča sodišče.
+
+- Delitev oblasti
+
+### Razmerje med državo in ekonomijo
+
+- Država gospodarstva ne vodi neposredno – zasebna lastnina.
+
+- Država kljub temu mora zagotavljati pogoje, ki omogočajo delovanje kapitalističnega gospodarstva.
+  - Brani zasebno lastnino.
+  - Skrbi za infrastrukturo, izobraževanje delavcev itd.
+  - Podeljuje subvencije, uveljavlja regulacije itd. 
+
+### Različna stališča
+
+- **Hvala:** možnost soodločanja, osebna svoboda, slabe vladarji načeloma izgubijo oblast itd.
+
+- **Kritika:** družbene in ekonomske neenakosti vplivajo na razliko v politični moči, vpliv posameznika in posameznice na vladanje ni direkten, težko je imeti res dober pregled nad tem, koga volimo itd.
 
 ## Kapitalizem
 
@@ -60,43 +101,4 @@ author: Žiga Žunec
   - Uničevanje okolja.
   - itd.
 
-## Parlamentarna demokracija
 
-### Od fevdalizma do demokracije
-
-- Z razpadanjem fevdalizma plemiči izgubljajo družbeno moč.
-
-- To omogoča nove oblike vladavine.
-
-- Demokracija nastane kot posledica družbenih bojev drugih družbenih slojev.
-
-### Značilnosti sodobne parlamentarne demokracije 1.
-
-- Parlament postavlja zakone.
-
-- Poslance se voli na volitvah.
-
-- Vlado voli parlament (ponekod določi predsednik, npr. ZDA).
-
----
-
-- Osebne pravice, ki naj bi veljale za vse.
-
-- O kršitvah zakona odloča sodišče.
-
-- Delitev oblasti
-
-### Razmerje med državo in ekonomijo
-
-- Država gospodarstva ne vodi neposredno – zasebna lastnina.
-
-- Država kljub temu mora zagotavljati pogoje, ki omogočajo delovanje kapitalističnega gospodarstva.
-  - Brani zasebno lastnino.
-  - Skrbi za infrastrukturo, izobraževanje delavcev itd.
-  - Podeljuje subvencije, uveljavlja regulacije itd. 
-
-### Različna stališča
-
-- **Hvala:** možnost soodločanja, osebna svoboda, slabe vladarji načeloma izgubijo oblast itd.
-
-- **Kritika:** družbene in ekonomske neenakosti vplivajo na razliko v politični moči, vpliv posameznika in posameznice na vladanje ni direkten, težko je imeti res dober pregled nad tem, koga volimo itd.

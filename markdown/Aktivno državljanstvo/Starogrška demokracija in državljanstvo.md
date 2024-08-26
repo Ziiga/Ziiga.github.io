@@ -1,6 +1,6 @@
 ---
 author: Žiga Žunec
-title: Zakaj je antična grčija relevantna za nas?
+title: Starogrška demokracija in državljanstvo
 ---
 
 ## Pravila
@@ -14,7 +14,17 @@ title: Zakaj je antična grčija relevantna za nas?
 
 ---
 
-## Demokracija
+## kaj je cilj vsega tega govorjenja?
+
+- Razmisliti o tem, kaj pomeni biti svoboden človek, kaj pomeni biti državljan in tako naprej.
+
+- Pokazati, da imate kot povsem običajni člani naše družbe moč vplivati na to družbo in da se vam to tudi izplača. 
+
+- Začeti razumeti, kakšen je odnos med posameznikom in družbo.
+
+---
+
+## Starogrška demokracija
 
 - Tipična oblika države v antični Grčiji je bil ***polis*** oziroma mestna država.
 
