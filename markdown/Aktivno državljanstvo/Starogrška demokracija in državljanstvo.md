@@ -10,7 +10,6 @@ title: Starogrška demokracija in državljanstvo
 2. Ne hodimo po razredu
 
 3. Vsaj približno vemo kaj učitelj govori
-    - Tisti, ki ne posluša, se javi za odgovarjanje na vprašanja.
 
 ---
 
