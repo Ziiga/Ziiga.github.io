@@ -31,7 +31,7 @@ Medklic o logični analizi besed:
 
 - Povsem neomejeno obnašanje vseh ljudi, bi pomenilo, da bi vsi trpeli:
 
-    to bi dobuščalo nomejene pretepe, umore, kraje, suženjstvo in tako naprej.
+    to bi dopuščalo neomejene pretepe, umore, kraje, suženjstvo in tako naprej.
 
 - Za dostojno življenje in določeno obliko svobode v družbi torej potrebujemo pravila.
 
