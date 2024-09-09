@@ -40,4 +40,7 @@ Ključna sta ta dva pojma:
 
     1. je problem posameznika,
     2. ima lahko družbene vzroke – pomanjkanje delavnih mest.
-    
+
+---
+
+- Družba, država, institucija in tako naprej je več kot zgolj seštevek posameznikov. Ima lastna pravila in značilnosti.
